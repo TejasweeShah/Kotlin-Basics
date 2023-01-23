@@ -1,23 +1,23 @@
 package fundamentals
 
 /**
- * Variables :-
+ * ## Variables :-
  * Stores data and has its own name.
- *  val : Stores a read only value. Value is assigned only once, cannot be reassigned. - IMMUTABLE
- *  var : Value can be reassigned. - MUTABLE
+ *  * val : Stores a read only value. Value is assigned only once, cannot be reassigned. - IMMUTABLE
+ *  * var : Value can be reassigned. - MUTABLE
  *
- * DATA TYPES
- *  Integer (Byte, Short, Int, Long) - Integer values can be separated by one or more underscores with one exception, underscores can't appear at the beginning and at the end of the number.
- *  Floating Point (Float, Double)
- *  Boolean (true, false)
- *  Character (Char, String)
+ * Data Types
+ *  * Integer (Byte, Short, Int, Long) - Integer values can be separated by one or more underscores with one exception, underscores can't appear at the beginning and at the end of the number.
+ *  * Floating Point (Float, Double)
+ *  * Boolean (true, false)
+ *  * Character (Char, String)
  *
- *
- * Operators :-
+ * ## Operators :-
  *  Arithmetic, Relational, Increment & Decrement Operators.
  *
- * Strings :-
+ * ## Strings :-
  *  A template expression starts with a dollar($) sign and consists of either a name or an expression in curly braces
+ *
  * */
 
 fun main() {
