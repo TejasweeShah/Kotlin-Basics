@@ -10,7 +10,8 @@ package fundamentals
  *  WHY Kotlin ?
  *  1. Makes code small, concise, readable & maintainable
  *  2. Null Safe and removes a lot of boilerplate code
- *  3. Object-oriented(classes, objects, encapsulation ets..) & functional(higher order functions, lambdas, first class functions etc.)
+ *  3. It is also important that Kotlin supports multiple programming paradigms, such as imperative programming, object-oriented programming, generic programming, functional programming, and more.
+ *
  *
  */
 
